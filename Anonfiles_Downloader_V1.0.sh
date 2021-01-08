@@ -44,7 +44,7 @@ do
   echo
 
   # Comando para fazer o download dos arquivos
-  wget -P $pasta -i $saida
+  wget -nc -P $pasta -i $saida
 
   # Comando para fazer o download dos arquivos e continuar o download caso tenha sido interrompido
   #wget -nc -c -P $pasta -i $saida
