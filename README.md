@@ -18,13 +18,16 @@ Faça o download do arquivo ""Anonfiles Downloader V1.0.sh" de preferência para
 Abra o Script com o editor de sua preferência e será necessário configurar alguns campos conforme abaixo:
 
 Na linha 16, você deve configurar o local onde vai estar o arquivo que contem as URL's originais do site "Anonfiles" e já criar o arquivo neste local.
+
 Exemplo:
 arquivo='/home/SEU_USUARIO/Desktop/Url_Original.txt'
 
 Na linha 19, você deve configurar o local do arquivo de saída das URL's convertidas do site "Anonfiles" será criado, este arquivo será criado na execução do script.
+
 Exemplo:
 saida='/home/SEU_USUARIO/Desktop/Url_Convertida.txt'
 
 Na linha 22, você deve configurar o local onde será salvo os Download.
+
 Exemplo:
 pasta='/home/SEU_USUARIO/Desktop/'
