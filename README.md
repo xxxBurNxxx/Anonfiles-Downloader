@@ -46,5 +46,5 @@ Com o local e arquivo das URL's originais configurado, local das URL's convertid
 
 > **sh Anonfiles_Downloader_V1.0.sh**
 
-Basicamente se tudo foi configurado de forma correta o script irá pegar a URL original, converter para a URL de Download, baixar o arquivo e seguir para o próximo arquivo até terminar a lista de URL.
+Basicamente se tudo foi configurado da forma correta o script irá pegar a URL original, converter para a URL de Download, baixar o arquivo e seguir para o próximo arquivo até terminar a lista de URL.
 
